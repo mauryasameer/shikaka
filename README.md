@@ -85,9 +85,9 @@
 ### Find all triangle triples in given array
 ### Find lowest common ancestor of a given node
 ### Return a single element by knocking out all other elements by 'k' [Josephus]
-#### - Given a sorted skewed binary tree, Create a BST out of it.
-#### - Given an array with integers, Output all the elements which were repeated exactly twice
-#### - Maximum depth/height/diameter of a given tree
+####- Given a sorted skewed binary tree, Create a BST out of it.
+####- Given an array with integers, Output all the elements which were repeated exactly twice
+####- Maximum depth/height/diameter of a given tree
 #### - Serialize and De serialize a given binary tree
 #### - Find single repeated or non-repeated number in conditional list. (XOR)
 #### - Implement "diff" in linux
