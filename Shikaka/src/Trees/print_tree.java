@@ -1,11 +1,12 @@
 package Trees;
 
 public class print_tree {
-	public void inorder(binary_node node){
-		if(node!=null){
-			inorder(node.get_left());
-			System.out.println(node.getData());
-			inorder(node.get_right());
+	public void print(BN<Integer> node){
+		if(node.data==-1){
+			return;
 		}
+		System.out.println(node.data);
+		print(node.left);
+		print(node.right);
 	}
 }
