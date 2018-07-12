@@ -85,20 +85,20 @@
 ### Find all triangle triples in given array
 ### Find lowest common ancestor of a given node
 ### Return a single element by knocking out all other elements by 'k' [Josephus]
-####  *Given a sorted skewed binary tree, Create a BST out of it.
-####  *Given an array with integers, Output all the elements which were repeated exactly twice
-####  *Maximum depth/height/diameter of a given tree
-####  *Serialize and De serialize a given binary tree
-####  *Find single repeated or non-repeated number in conditional list. (XOR)
-####  *Implement "diff" in linux
-####  *Program to count # of set bits in a given integer.
-####  *Convert BST to doubly linked list
-####  *Convert integer to String without .toString()
-####  *GCD of two numerals
-####  *Given an array in post order traversal, check whether the given array is in BST or not
-####  *Reverse the words in a given English sentence
-####  *Get the median of a stream of large numbers
-####  *Print all the paths of a given Binary Tree from root to leaf
-####  *Modify array such that arr[i] == arr[arr[i]] Inplace
-####  *Find the missing number in a billion number list
-####  *Bit wise addition
+####  * Given a sorted skewed binary tree, Create a BST out of it.
+####  * Given an array with integers, Output all the elements which were repeated exactly twice
+####  * Maximum depth/height/diameter of a given tree
+####  * Serialize and De serialize a given binary tree
+####  * Find single repeated or non-repeated number in conditional list. (XOR)
+####  * Implement "diff" in linux
+####  * Program to count # of set bits in a given integer.
+####  * Convert BST to doubly linked list
+####  * Convert integer to String without .toString()
+####  * GCD of two numerals
+####  * Given an array in post order traversal, check whether the given array is in BST or not
+####  * Reverse the words in a given English sentence
+####  * Get the median of a stream of large numbers
+####  * Print all the paths of a given Binary Tree from root to leaf
+####  * Modify array such that arr[i] == arr[arr[i]] Inplace
+####  * Find the missing number in a billion number list
+####  * Bit wise addition
