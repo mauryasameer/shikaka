@@ -1,7 +1,7 @@
 package Trees;
 
 public class print_tree {
-	public void print(BN<Integer> node){
+	public static void print(BN<Integer> node){
 		if(node==null){
 			return ;
 		}
